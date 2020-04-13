@@ -4,7 +4,7 @@
         "nameName":"Sergey", 
         "nameSurname":"Def" }
       ],
-  avatar: [
+  "avatar": [
         { "id":1, 
         "avatarSrc":"https://i.pinimg.com/736x/58/ff/24/58ff242660049800664c62d5f2afe907--fantasy-inspiration-character-inspiration.jpg" }
   ],
