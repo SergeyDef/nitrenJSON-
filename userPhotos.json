@@ -59,6 +59,36 @@
         "datePublication":"15.01.2017",
         "src":"https://avatars.mds.yandex.net/get-pdb/1600028/328af63f-9715-48f9-b1ba-8b6c7a24e5c6/s1200?webp=false",
         "descriptionPhoto":"Brief description of the photo"
+      },
+      { 
+        "id":11,
+        "datePublication":"15.08.2016",
+        "src":"https://avatars.mds.yandex.net/get-zen_doc/1864855/pub_5d550aa4c31e49b5cfd2e7c7_5d5518b4c49f2900ad4e99b3/scale_1200",
+        "descriptionPhoto":"Brief description of the photo"
+      },
+      { 
+        "id":12,
+        "datePublication":"12.08.2016",
+        "src":"https://img2.goodfon.ru/original/1440x900/2/c9/art-muzhchina-koldun-zveri.jpg",
+        "descriptionPhoto":"Brief description of the photo"
+      },
+      { 
+        "id":13,
+        "datePublication":"25.06.2016",
+        "src":"https://yt3.ggpht.com/a/AGF-l7_JQZDJRvZBDiP34EZM-MLhjYG6EreJaYjJjg=s900-c-k-c0xffffffff-no-rj-mo",
+        "descriptionPhoto":"Brief description of the photo"
+      },
+      { 
+        "id":14,
+        "datePublication":"29.04.2016",
+        "src":"https://i.pinimg.com/736x/9d/61/d8/9d61d8d9d932780b896d835a84a7204f--necromancer-perso.jpg",
+        "descriptionPhoto":"Brief description of the photo"
+      },
+      { 
+        "id":15,
+        "datePublication":"07.02.2016",
+        "src":"https://avatars.mds.yandex.net/get-pdb/1966865/27b3c601-0e74-4b2a-bee4-e43e54ae0c18/s1200?webp=false",
+        "descriptionPhoto":"Brief description of the photo"
       }
     ]
 }
