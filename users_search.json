@@ -58,7 +58,7 @@
         },
         {
           "id":9, 
-          "firstName":"Тытьяна",
+          "firstName":"Татьяна",
           "lastName":"Нагиева", 
           "avatarSrcFriend":"https://i.ytimg.com/vi/iAU8yKY9tAY/maxresdefault.jpg",
           "registrationDate":"07.12.2015"
@@ -97,6 +97,20 @@
           "lastName":"Петров", 
           "avatarSrcFriend":"https://i.pinimg.com/736x/b4/50/1f/b4501f95560d2fc879d24cab9583720e.jpg",
           "registrationDate":"05.02.2010"
+        },
+        {
+          "id":15, 
+          "firstName":"Павел",
+          "lastName":"Королёв", 
+          "avatarSrcFriend":"https://c.wallhere.com/photos/33/df/Hiro_Hamada_Big_Hero_6_Big_Hero_6_drawing_animated_movies_movies_Disney-196734.jpg!d",
+          "registrationDate":"01.09.2019"
+        },
+        {
+          "id":16, 
+          "firstName":"Марина",
+          "lastName":"Пищалина", 
+          "avatarSrcFriend":"https://i12.fotocdn.net/s123/3c418489c9a81ea5/user_l/2817430939.jpg",
+          "registrationDate":"09.07.2020"
         }
   ]
 }
